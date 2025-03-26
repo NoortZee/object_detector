@@ -1,0 +1,61 @@
+# Файлы логов
+*.log
+logs/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Дистрибутивы и пакеты
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Файлы настроек
+color_config.json
+settings.json
+
+# Временные файлы
+temp/
+tmp/
+
+# Виртуальное окружение Python
+venv/
+ENV/
+env/
+
+# Visual Studio Code настройки
+.vscode/
+*.code-workspace
+
+# PyCharm настройки
+.idea/
+
+# Файлы Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Файлы скриншотов
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Резервные копии
+*.bak
+*~
+*.swp 
